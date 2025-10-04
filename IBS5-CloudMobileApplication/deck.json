@@ -1,0 +1,287 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "c0152c27-a170-11f0-9419-e4fd450067ba",
+    "deck_config_uuid": "c015558f-a170-11f0-8782-e4fd450067ba",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "c015558f-a170-11f0-8782-e4fd450067ba",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 50
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 300
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "desiredRetention": null,
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-89f8f528c8b928a75f53aee1fb9556c9c71a5b2a.jpg",
+        "paste-d50cd074398242f4b1bd050148359fcb865f3428.jpg"
+    ],
+    "name": "IBS5-CloudMobileApplication",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which Statement about IP are correct?<br><ul><li>IP is a datagram service</li><li>IP is a connection-oriented service</li><li>IPv4 has more address space than IPv6</li><li>IPv6 has more address space than IPv4</li></ul>",
+                "<ul><li>IP is a datagram service</li><li>IPv6 has more address space than IPv4</li></ul>"
+            ],
+            "guid": "k3a%G)Wl2+",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is necessary to connect an application to the internet?",
+                "<ul><li>An IP address</li><li>A port</li></ul>"
+            ],
+            "guid": "Qwfx@~s,|]",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which are the two HTTP operations?",
+                "<ul><li>GET</li><li>POST</li></ul>"
+            ],
+            "guid": "I^|/J?Ezqx",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which statements about HTTP are correct?<br><ul><li>HTTP is a stateful protocol?</li><li>Keep-Alive is the main feature of HTTP 2.0</li><li>HTTP 3.0 is using TCP</li><li>HTTP 3.0 is using UDP</li></ul>",
+                "HTTP is using UDP"
+            ],
+            "guid": "y`hCD/22sO",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Whats the difference between GET and POST?",
+                "GET request:<br><ul><li>Purpose: Retrieve data</li><li>Visibility for user: Yes, it's displayed in the URL</li><li>Caching: Can be cached and bookmarked</li><li>Look: Query parameters in URL (for example: https://website.com/search<b>?query=luemmel&amp;page=2</b>)</li></ul><div>POST request:</div><div><ul><li>Purpose: Submit data</li><li>Visibility for user: No, the user only sees the page (for example https://website.com<b>/login</b>)</li><li>Caching: Not cached and can't be bookmarked</li><li>Look: Send in a HTTP request body</li></ul></div>"
+            ],
+            "guid": "yxWx9+ZB{M",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Own::understanding"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is meant by RTT?&nbsp;",
+                "Roundtrip Time, time it takes for a signal to be sent (request) plus the amount of time it takes for the receiving answer (response).<br><br>Example:&nbsp;<br><img src=\"paste-89f8f528c8b928a75f53aee1fb9556c9c71a5b2a.jpg\">"
+            ],
+            "guid": "I17==]pdXe",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Own::understanding"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What changed from HTTP 1.1 to 2.0?",
+                "<ul><li>Data is in binary (Compacter and faster)</li><li>Multiple requests can share a single connection</li><li>Server can \"push\" resources which the client will need</li><li>Header is compressed</li><li>TLS encryption</li></ul><div>Example :</div><div><img src=\"paste-d50cd074398242f4b1bd050148359fcb865f3428.jpg\"><br></div>"
+            ],
+            "guid": "vl.oPjN08E",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Own::understanding"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>What is QUIC and what role has UDP in it?</div>",
+                "QUIC = Quick UDP Internet Connections<br>It's build on top of UDP, so it doesn't wait for retransmitting if a package is lost and allows quicker pass through with firewalls."
+            ],
+            "guid": "xX6ZF(SU-c",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Own::understanding"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>What is a datagram?</div>",
+                "<div>Sending a message in smaller stand alone pieces.</div><div>A connection oriented service would be the opposite, which means that the packages arrive in the right order (TCP).</div>"
+            ],
+            "guid": "mgqopNe0v6",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Own::understanding"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When we talk about application, is is used from the client or server side?",
+                "<div>Application is only coming from the client side, so no http server (Webserver) needed.</div>"
+            ],
+            "guid": "EMnbryYyWh",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Own::understanding"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>What is stateful and what is stateless?</div>",
+                "stateful:<br><ul><li>The server stores context so future requests can depend on past ones.</li><li>Example:&nbsp;FTP, SSH, Telnet</li></ul><div>stateless:</div><div><ul><li>Every request is independent and the server does not remember anything.</li><li>Example: HTTP, Rest APIs</li></ul></div>"
+            ],
+            "guid": "rPtdyv3<<$",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Own::understanding"
+            ]
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
