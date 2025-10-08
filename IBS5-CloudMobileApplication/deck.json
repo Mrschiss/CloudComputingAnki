@@ -280,6 +280,102 @@
             "tags": [
                 "Own::understanding"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which statements are correct?<br><ul><li>DOCTYPE is always the first line of an html document</li><li>Each html documents has more than one tree</li><li>Character encoding is important for&nbsp; the display of an HTML document</li><li>Each HTML element has a start and end tag</li></ul>",
+                "Correct is:<br><ul><li>DOCTYPE is always the first line of an html document</li><li>Character encoding is important for&nbsp; the display of an HTML document</li></ul>"
+            ],
+            "guid": "Rdxvy.N?%K",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the DOCTYPE statement for?<br><ul><li>It is the start of the html tree<br></li><li>It contains the page title<br></li><li>It tells the browser which HTML version is used<br></li><li>It tells the validator which HTML version is used<br></li></ul>",
+                "<li>It tells the validator which HTML version is used<br></li><li>It tells the browser which HTML version is used</li>"
+            ],
+            "guid": "cn`&h:;%}",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which tag is for an unordered list?<br><ul><li>ul</li><li>ol</li><li>li</li><li>td</li></ul>",
+                "<ul><li>ul</li></ul>"
+            ],
+            "guid": "C1~>FNuEr=",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which tags or attributes can be used in a table?<ul><li><div>td</div></li><li><div>colspan</div></li><li><div>th</div></li><li><div>thead</div></li></ul>",
+                "<div>All of them</div><ul><li><div>td</div></li><li><div>colspan</div></li><li><div>th</div></li><li><div>thead</div></li></ul><sup></sup><div></div><div></div><div></div><div></div>"
+            ],
+            "guid": "P16H[K~|pO",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What information is contained in the <code>&lt;head&gt;</code> section of an HTML document?",
+                "The <code>&lt;head&gt;</code> section contains metadata about the page, such as the character set, title, and viewport settings."
+            ],
+            "guid": "cD,Y*VT,kz",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Own::understanding"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the purpose of the <code>&lt;meta charset=\"UTF-8\"&gt;</code> tag?",
+                "It specifies the character encoding for the HTML document, which is essential for displaying text correctly."
+            ],
+            "guid": "C%3BU!b1h{",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Own::understanding"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the viewport meta tag and why is it important?",
+                "The viewport meta tag (<code>&lt;meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"&gt;</code>) helps make websites look good on all devices by setting the width of the page to the device's screen width and the initial zoom level."
+            ],
+            "guid": "CX=U;bJ;VG",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Own::understanding"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How can you validate an HTML page?",
+                "You can use the W3C Markup Validation Service at validator.w3.org or a browser plugin to check for errors in your HTML code."
+            ],
+            "guid": "fuF|xs%3z$",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Own::understanding"
+            ]
         }
     ],
     "reviewLimit": null,
