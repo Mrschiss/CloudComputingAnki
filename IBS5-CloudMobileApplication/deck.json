@@ -280,6 +280,16 @@
             "tags": [
                 "Own::understanding"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "test",
+                "test"
+            ],
+            "guid": "gDm0N=6DGx",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": []
         }
     ],
     "reviewLimit": null,
