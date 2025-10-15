@@ -201,7 +201,7 @@
             "__type__": "Note",
             "fields": [
                 "Whats the difference between GET and POST?",
-                "GET request:<br><ul><li>Purpose: Retrieve data</li><li>Visibility for user: Yes, it's displayed in the URL</li><li>Caching: Can be cached and bookmarked</li><li>Look: Query parameters in URL (for example: https://website.com/search<b>?query=luemmel&amp;page=2</b>)</li></ul><div>POST request:</div><div><ul><li>Purpose: Submit data</li><li>Visibility for user: No, the user only sees the page (for example https://website.com<b>/login</b>)</li><li>Caching: Not cached and can't be bookmarked</li><li>Look: Send in a HTTP request body</li></ul></div>"
+                "GET request:<ul><li>Visibility for user: Yes, it's displayed in the URL</li><li>Caching: Can be cached and bookmarked</li><li>Look: Query parameters in URL (for example: https://website.com/search<b>?query=luemmel&amp;page=2</b>)</li></ul><div>POST request:</div><div><ul><li>Visibility for user: No, the user only sees the page (for example https://website.com<b>/login</b>)</li><li>Caching: Not cached and can't be bookmarked</li><li>Look: Send in a HTTP request body</li></ul></div>"
             ],
             "guid": "yxWx9+ZB{M",
             "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
@@ -375,6 +375,54 @@
             "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
             "tags": [
                 "Own::understanding"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Select all correct statements<br><ul><li>The Action attribute specifies whether the data is transferred via GET or POST<br></li><li>GET will send data as URL parameters<br></li><li>POST will send data as URL parameters<br></li><li>POST will send data in body of HTTP package<br></li></ul>",
+                "Correct is:<br><ul><li>GET will send data as URL parameters<br></li><li>POST will send data in body of HTTP package<br></li></ul>"
+            ],
+            "guid": "c0~D:765h_",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What attributes does the form tag have?<br><ul><li>action<br></li><li>method<br></li><li>input<br></li><li>submit<br></li></ul>",
+                "<div>Correct is:</div><ul><li>action</li><li>method</li></ul>"
+            ],
+            "guid": "kay`e}R0.<",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the use of a form tag?",
+                "Send data from browser to server"
+            ],
+            "guid": "fm:F#!Cfi7",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Select the correct input types<br><ul><li>name<br></li><li>submit<br></li><li>color<br></li><li>number<br></li></ul>",
+                "Correct is:<ul><li>submit<br></li><li>color<br></li><li>number</li></ul>"
+            ],
+            "guid": "x-+0>9HHe*",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
             ]
         }
     ],
