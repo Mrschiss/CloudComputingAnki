@@ -424,6 +424,54 @@
             "tags": [
                 "Question::from::Prof"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which tag is required to integrate an external CSS?<br><ul><li></li><li><div>a</div></li><li><div>style</div></li><li><div>link</div></li><li><div>meta</div></li></ul>",
+                "<b>Correct Answer:</b> <b>link</b>"
+            ],
+            "guid": "uX5&m>25-h",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Best Way to Apply CSS Across Multiple Websites<ul><li><div>External</div></li><li><div>Internal</div></li><li><div>Inline</div></li></ul>",
+                "<b>Correct Answer:</b> <b>External</b>"
+            ],
+            "guid": "fwnidopn9m",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&lt;p id=\"b\"&gt;Hello&lt;/p&gt;<br>&lt;p&gt;Bye&lt;/p&gt;<br><br>Choose the correct selectors to set the text <b>Hello</b> in blue:<br><ul><li>p {color:blue;}&nbsp;</li><li>#b {color:blue;}&nbsp;</li><li>.b {color:blue;}</li><li>p, #b {color:blue;}&nbsp;</li></ul>",
+                "<div><b>Correct Statements:</b></div><ul><li><div><code>p {color:blue;}</code></div></li><li><div><code>#b {color:blue;}</code></div></li><li><div><code>p, #b {color:blue;}</code></div></li></ul>"
+            ],
+            "guid": "kPFS||/W3d",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&lt;p id=\"b\"&gt;Hello&lt;/p&gt;<br>&lt;p&gt;Bye&lt;/p&gt;<br><br>Choose the correct selectors to set the text <b>Hello but not the text Bye in blue</b>:<br><ul><li><div>p {color:blue;}</div></li><li><div>#b {color:blue;}</div></li><li>.b {color:blue;}</li><li>p, #b {color:blue;}</li></ul>",
+                "<div><b>Correct Statement:</b></div><ul><li><div><b><code>#b {color:blue;}</code></b></div></li></ul>"
+            ],
+            "guid": "b17v*$$)K*",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
         }
     ],
     "reviewLimit": null,
