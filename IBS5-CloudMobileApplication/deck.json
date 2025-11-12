@@ -568,6 +568,54 @@
             "tags": [
                 "Question::from::Prof"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div></div><div></div><div><div><div></div></div></div><div><div></div></div><div><div>Select the correct statements:</div></div><div><ul><li><div>Javascript uses just-in-time compiler</div></li><li><div>Dynamic typing means that you have to specify the data type of each variable</div></li><li><div>Strict mode changes \"bad syntax\" into real errors</div></li><li><div>With let you declare a Javascript constant</div></li></ul></div>",
+                "<ul><li><div>Javascript uses just-in-time compiler</div></li><li><div>Strict mode changes \"bad syntax\" into real errors</div></li></ul>"
+            ],
+            "guid": "P9BZ^7L+{z",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div></div><div></div><div><div><div></div></div></div><div><div></div></div><div><div>You want to write the word Hello with Javascript in the following HTML element:<br></div></div><div><div>&lt;p id=\"demo\"&gt;&lt;/p&gt;</div><div>Select the correct answers:</div></div><div><ul><li><div>document.demo = \"Hello\";</div></li><li><div>document.getElementById(\"demo\").innerHTML=\"Hello\";</div></li><li><div>document.getElementById(\"demo\").value=\"Hello\";</div></li><li><div>demo.innerHTML=\"Hello\";</div></li></ul></div>",
+                "<ul><li><div>document.getElementById(\"demo\").innerHTML=\"Hello\";</div></li><li><div>demo.innerHTML=\"Hello\";</div></li></ul>"
+            ],
+            "guid": "gVmsX[5eE<",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Select the anonymous function:<br><ul><li>function myfunction(a,b) {}</li><li><div>myfunction(a,b) {}</div></li><li><div>function (a,b) {}</div></li><li>return function {}</li></ul>",
+                "<ul><li><div>function (a,b) {}</div></li></ul>"
+            ],
+            "guid": "ILm#,67Kqx",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div></div><div></div><div><div><div></div></div></div><div><div></div></div><div><div>You want to add new events with the addEventListener function. Which are correct events to add?<br></div></div><div><ul><li><div>click</div></li><li><div>onclick</div></li><li><div>onload</div></li><li><div>mouseover</div></li></ul></div>",
+                "<ul><li><div>click</div></li><li><div>mouseover</div></li></ul>"
+            ],
+            "guid": "uAXf_KZ+|x",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
         }
     ],
     "reviewLimit": null,
