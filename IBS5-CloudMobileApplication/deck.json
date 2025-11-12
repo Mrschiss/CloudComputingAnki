@@ -472,6 +472,102 @@
             "tags": [
                 "Question::from::Prof"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&lt;div&gt;Text 1<br>&nbsp; &lt;span class=\"aq\"&gt;Text 2<br>&nbsp;&nbsp;&nbsp; &lt;span id=\"id\"&gt;Text 3&lt;/span&gt;<br>&nbsp; &lt;/span&gt;<br>&lt;/div&gt;<br><br>What does <code>div span</code> select?<br><ul><li>Text 1 and Text 2</li><li>Only Text 2</li><li>Only Text 3 </li><li>Text 2 and Text 3</li></ul>",
+                "Text 2 and Text 3"
+            ],
+            "guid": "A92J20geOR",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&lt;div&gt;Text 1&lt;/div&gt;<br>&lt;span class=\"aq\"&gt;Text 2&lt;/span&gt;<br>&lt;span id=\"id\"&gt;Text 3&lt;/span&gt;<br><br>What does <code>div &gt; span</code> select?<br><br><ul><li>Text 1 and Text 2</li><li>Only Text 2</li><li>Only Text 3</li><li>Text 2 and Text 3</li></ul>",
+                "Only Text 2"
+            ],
+            "guid": "hWzh?f5T*H",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&lt;div&gt;Text 1&lt;/div&gt;<br>&lt;span class=\"aq\"&gt;Text 2&lt;/span&gt;<br>&lt;span id=\"id\"&gt;Text 3&lt;/span&gt;<br><br>What does <code>div + span</code> select?<br><br>Only Text 1<br>Only Text 2<br>Only Text 3<br>Text 2 and Text 3",
+                "Only Text 2"
+            ],
+            "guid": "dW}3L~I|Ck",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&lt;div&gt;Text 1&lt;/div&gt;<br>&lt;span class=\"aq\"&gt;Text 2&lt;/span&gt;<br>&lt;span id=\"id\"&gt;Text 3&lt;/span&gt;<br><br>What does <code>div ~ span</code> select?<br><br>Only Text 1<br>Only Text 2<br>Only Text 3<br>Text 2 and Text 3",
+                "Text 2 and Text 3"
+            ],
+            "guid": "n8PI*4<pQ$",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does Responsive Web Design means?<br><ul><li>The web page is only for computers<br></li><li>The web page is only for mobile devices<br></li><li>The web page is only for tablets</li><li>The web page looks good on all devices<br></li></ul>",
+                "<ul><li>The web page looks good on all devices</li></ul>"
+            ],
+            "guid": "Oc#mqd]%p2",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "You have a lot of boxes of the same size. Which is the easiest way to place them on the website?<br><ul><li>Flex Layout<br></li><li>Grid Layout<br></li></ul>",
+                "<ul><li>Flex Layout</li></ul>"
+            ],
+            "guid": "N.!$_?[*fo",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which are container properties of the flex layout?<br><ul><li>display<br></li><li>flex-direction<br></li><li>text-align<br></li><li>flex-align<br></li></ul>",
+                "<ul><li>display</li><li>flex-align</li></ul>"
+            ],
+            "guid": "v7ZqN9o}Xm",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a grid layout you want to set a box in cell <b>3/2</b>. It should use <b>1 column</b> and <b>2 rows</b>. Which is the correct CSS statement?<br><ul><li>grid-column: 3 / span 2; grid-row: 2<br></li><li>grid-column: 3; grid-row: 2 / span 2<br></li><li>grid-column: 2; grid-row: 3 / span 2<br></li><li>grid-column: 2 / span 2; grid-row: 3<br></li></ul>",
+                "grid-column: 2; grid-row: 3 / span 2"
+            ],
+            "guid": "H.={+N*chC",
+            "note_model_uuid": "c015efc1-a170-11f0-9f04-e4fd450067ba",
+            "tags": [
+                "Question::from::Prof"
+            ]
         }
     ],
     "reviewLimit": null,
